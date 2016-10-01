@@ -1,0 +1,2 @@
+# fragmentacion
+fragmentacion de bd
